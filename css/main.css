@@ -9,14 +9,14 @@ body {
 
 [class*="col-"] {
   padding-top: 10px;
-  padding-bottom: 10px;
+  padding-bottom: 0px;
   padding-right: 10px;
   padding-left: 10px;
 
 /*  background-color: #e6e6e6;*/
   background-color: rgba(0,0,0,.0); 
-  border: 1px solid #ddd;
-  border: 1px solid rgba(0,0,0, 0.1);
+  border: 0px solid #ddd;
+  border: 0px solid rgba(0,0,0, 0.1);
 
 }
 
@@ -28,24 +28,25 @@ hr {
 
 /* my custom stuff BELOW inside the grid */
 
+.container {
+  margin: auto;
+  margin-bottom: 60px;
+  background-color: 
+}
+
 
 .container-fluid {
   margin-bottom:;  
 }
 
 
-.thumbnail{
-  border:0px;
-  margin-bottom: 0px;
-}
-
 .grey{
   background-color: rgba(0,0,0,.1);
 
 }
 
-
-
-
+.thumbnail{
+    border: 0px solid rgba(0,0,0, 0.1);
+}
 
 
