@@ -1,14 +1,10 @@
 body {
- /* min-height: 2000px; */
+  min-height: 2000px;
+  padding-top: 40px;
+
 }
 
-.navbar-static-top {
-  margin:0;
-}
-
-
-
- /* MY own Custom SH!T */
+/* MY own Custom SH!T */
 
 .navbar .navbar-nav {
     display: inline-block;
@@ -16,14 +12,11 @@ body {
 }
 
 .navbar .navbar-collapse {
-    position: relative;
-    display: block;
     margin: 0px;
-    height: 0px;
-    width: 80%;
+    width: 100%;
     float: right;
     text-align: right;
-    background-color: blue
+    background-color: 
 }
 
 .navbar-brand {
@@ -36,7 +29,7 @@ body {
   height: 18px;
   font-size: 18px;
   line-height: 30px;
-  background-color:red
+  background-color:
 }
 
 
