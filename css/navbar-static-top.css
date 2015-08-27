@@ -1,0 +1,74 @@
+body {
+ /* min-height: 2000px; */
+}
+
+.navbar-static-top {
+  margin:0;
+}
+
+
+
+ /* MY own Custom SH!T */
+
+.my-nav {
+  position:relative;
+  display: inline-block;
+  width: 100%;
+
+  margin: 0 auto;
+
+  text-align: right;
+
+  float:right;
+
+  background-color: 
+
+}
+
+.my-nav ul {
+
+}
+
+
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+}
+
+.navbar .navbar-collapse {
+    position: relative;
+    display: block;
+    margin: 0px;
+    height: 0px;
+    width: 100%;
+    text-align: center;
+    background-color: 
+}
+
+.navbar-brand {
+  position: relative;
+  display: inline-block;
+  top: 20px;
+  width: 20%;
+  text-align: left;
+  float: ;
+  height: 18px;
+  font-size: 18px;
+  line-height: 30px;
+  background-color:
+}
+
+
+@media (max-width: 768px) {
+  .navbar > .container .navbar-brand,
+  .navbar > .container-fluid .navbar-brand {
+    position: relative;
+    top: -50px;
+    width: 80%;
+    display: inline-block;
+    float: left;
+    text-align: left;
+    margin-left: -20px;
+
+  }
+}

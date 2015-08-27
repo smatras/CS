@@ -1,0 +1,51 @@
+body {
+	overflow-x:hidden;
+}
+
+.row {
+  margin-bottom: 20px;
+}
+
+
+[class*="col-"] {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+
+/*  background-color: #e6e6e6;*/
+  background-color: rgba(0,0,0,.0); 
+  border: 1px solid #ddd;
+  border: 1px solid rgba(0,0,0, 0.1);
+
+}
+
+hr {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+
+/* my custom stuff BELOW inside the grid */
+
+
+.container-fluid {
+  margin-bottom:;  
+}
+
+
+.thumbnail{
+  border:0px;
+  margin-bottom: 0px;
+}
+
+.grey{
+  background-color: rgba(0,0,0,.1);
+
+}
+
+
+
+
+
+
